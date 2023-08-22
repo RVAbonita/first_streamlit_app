@@ -7,9 +7,9 @@ As part of the "Hands On Essentials - Data Applications" course, I've created an
 
 This project showcases the practical application of course concepts and creates an engaging user experience centered around healthy breakfast options:
 <ul>
-<li>Customization: Users can create unique fruit smoothies by selecting ingredients, supported by a user-friendly search feature.</li>
-<li>Fruityvice Fruit Advice: The app includes a dedicated section that offers in-depth information about a variety of fruits.</li>
-<li>User Engagement: Users are encouraged to contribute by adding their favorite fruits to the app's list, promoting a sense of community involvement.</li>
+<li><b>Customization:</b> Users can create unique fruit smoothies by selecting ingredients, supported by a user-friendly search feature.</li>
+<li><b>Fruityvice Fruit Advice:</b> The app includes a dedicated section that offers in-depth information about a variety of fruits.</li>
+<li><b>User Engagement:</b> Users are encouraged to contribute by adding their favorite fruits to the app's list, promoting a sense of community involvement.</li>
 </ul>
 <p>By combining these features, the project not only demonstrates the acquired knowledge but also offers a valuable tool for exploring and embracing a health-conscious breakfast routine.<p>
 
