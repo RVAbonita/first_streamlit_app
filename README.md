@@ -1,7 +1,7 @@
 # My Parents New Healthy Diner
 
 #### Introduction:
-As part of the "Hands On Essentials - Data Applications" course, I've created an engaging Streamlit application called "My Parents New Healthy Diner." This interactive app lets users explore and customize breakfast favorites in a fun way.
+As part of the "Snowflake - Hands On Essentials - Data Applications" course, I've created an engaging Streamlit application called "My Parents New Healthy Diner." This interactive app lets users explore and customize breakfast favorites in a fun way.
 
 #### Project Scope:
 
